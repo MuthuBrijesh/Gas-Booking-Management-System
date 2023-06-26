@@ -1,0 +1,8 @@
+C:\Users\WIN10\OneDrive\Documents\Visual Studio 2010\Projects\Try2\Try2\bin\Try2.dll
+C:\Users\WIN10\OneDrive\Documents\Visual Studio 2010\Projects\Try2\Try2\bin\Try2.pdb
+C:\Users\WIN10\OneDrive\Documents\Visual Studio 2010\Projects\Try2\Try2\obj\Debug\Try2.dll
+C:\Users\WIN10\OneDrive\Documents\Visual Studio 2010\Projects\Try2\Try2\obj\Debug\Try2.pdb
+E:\Resources\Documents\Visual Studio 2010\WebSites\try1updated\Try2\Try2\bin\Try2.dll
+E:\Resources\Documents\Visual Studio 2010\WebSites\try1updated\Try2\Try2\bin\Try2.pdb
+E:\Resources\Documents\Visual Studio 2010\WebSites\try1updated\Try2\Try2\obj\Debug\Try2.dll
+E:\Resources\Documents\Visual Studio 2010\WebSites\try1updated\Try2\Try2\obj\Debug\Try2.pdb
